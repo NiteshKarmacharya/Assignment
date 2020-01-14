@@ -142,15 +142,15 @@ namespace Assignment
 
             if (drawTriangle)
             {
-                drawTriangle = false;
+                drawTriangle = true;
             }
             if (drawRectangle)
             {
-                drawRectangle = false;
+                drawRectangle = true;
             }
             if (drawCircle)
             {
-                drawCircle = false;
+                drawCircle = true;
             }
         }
     }
